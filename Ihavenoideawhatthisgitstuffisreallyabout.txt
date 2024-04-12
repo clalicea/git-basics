@@ -1,0 +1,3 @@
+Ihavenoideawhatthisgitstuffisreallyabout
+
+I am adding text here from sublime text now as my text editor. This seems okay. 
