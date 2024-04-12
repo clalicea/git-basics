@@ -5,3 +5,6 @@ I am adding text here from sublime text now as my text editor. This seems okay.
 I am still not 100% sure what it is that I am doing but I guess this is cool. Practice will make perfect I guess? 
 
 I can see how I might want to write my code and then save it here. 
+
+
+hey can I just add this like this????
